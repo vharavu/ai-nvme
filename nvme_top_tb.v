@@ -1,4 +1,5 @@
 // nvme_top_tb.v
+`timescale 1ns / 1ps
 module nvme_top_tb;
     reg clk;
     reg reset_n;
